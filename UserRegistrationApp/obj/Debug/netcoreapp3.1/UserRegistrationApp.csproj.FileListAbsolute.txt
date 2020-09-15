@@ -92,5 +92,6 @@ E:\Developing Projectes\Visual Studio\ASP.NET CoreApps\UserRegistrationApp\UserR
 E:\Developing Projectes\Visual Studio\ASP.NET CoreApps\UserRegistrationApp\UserRegistrationApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 E:\Developing Projectes\Visual Studio\ASP.NET CoreApps\UserRegistrationApp\UserRegistrationApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 E:\Developing Projectes\Visual Studio\ASP.NET CoreApps\UserRegistrationApp\UserRegistrationApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Developing Projectes\Visual Studio\ASP.NET CoreApps\UserRegistrationApp\UserRegistrationApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 E:\Developing Projectes\Visual Studio\ASP.NET CoreApps\UserRegistrationApp\UserRegistrationApp\obj\Debug\netcoreapp3.1\UserRegistrationApp.csproj.CoreCompileInputs.cache
 E:\Developing Projectes\Visual Studio\ASP.NET CoreApps\UserRegistrationApp\UserRegistrationApp\obj\Debug\netcoreapp3.1\UserRegistrationApp.MvcApplicationPartsAssemblyInfo.cache

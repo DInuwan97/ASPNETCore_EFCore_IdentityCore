@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Hg/pJ+QJZ9J6psYE60ogCUzNeLx/jCZcKdC0LLTuuJF2sk8zzpDL1vcDFD0jqr+iMwrR1uGaecNVbnQEnS5X2g==",
+  "dgSpecHash": "eKn/C9yUDifMljeR5aGuTigJJOSAxwaq0LBkPlpeGXZy8o7IixAqoqlEBX6eCh0yJlLa9UZ/FoMrCrNGCymCKQ==",
   "success": true,
   "projectFilePath": "E:\\Developing Projectes\\Visual Studio\\ASP.NET CoreApps\\UserRegistrationApp\\UserRegistrationApp\\UserRegistrationApp.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Elitebook\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.8\\microsoft.aspnetcore.authentication.jwtbearer.3.1.8.nupkg.sha512",
     "C:\\Users\\Elitebook\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.8\\microsoft.aspnetcore.cryptography.internal.3.1.8.nupkg.sha512",
     "C:\\Users\\Elitebook\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.8\\microsoft.aspnetcore.cryptography.keyderivation.3.1.8.nupkg.sha512",
     "C:\\Users\\Elitebook\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\3.1.8\\microsoft.aspnetcore.identity.entityframeworkcore.3.1.8.nupkg.sha512",
