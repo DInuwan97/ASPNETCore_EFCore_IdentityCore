@@ -40,7 +40,6 @@ namespace UserRegistrationApp.Controllers
                 Email = model.Email,
                 FullName = model.FullName,
                 PhoneNumber = model.PhoneNumber
-
             };
 
             try
@@ -52,10 +51,7 @@ namespace UserRegistrationApp.Controllers
             {
                 throw ex;
             }
-
-           
         }
-
 
         [HttpPost]
         [Route("Login")]
@@ -71,7 +67,7 @@ namespace UserRegistrationApp.Controllers
                     Subject = new ClaimsIdentity(new Claim[] {
                         new Claim("UserID", user.Id.ToString())
                     }),
-                    Expires = DateTime.UtcNow.AddMinutes(5),
+                    Expires = DateTime.UtcNow.AddDays(1),
                     SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_appSettrings.JWT_Secret)), SecurityAlgorithms.HmacSha256Signature)
 
                 };
